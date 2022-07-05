@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rockroyal305
 - 👀 I’m interested in ... Competive Programming, Chess, Math, and AI
 - 🌱 I’m currently learning ... Machine Learning
-- 📫 How to reach me ... rockroyal305@gmail.com
 
 ```mermaid
   flowchart LR;
