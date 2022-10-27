@@ -19,6 +19,9 @@
     H(Hardware) --> L & G
     H <--> P
     B --> H
+    C <--> N(Neuroscience)
+    G <--> N
+    E --> N
     
     
 ```
