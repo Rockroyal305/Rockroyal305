@@ -25,13 +25,13 @@
     O(Origami) --> A
     O --> M & B & H
     O <--> M
-    click A href "https://rockroyal305.github.io/Rockroyal.github.io/art.html"
-    click C href "https://rockroyal305.github.io/Rockroyal.github.io/index.html#chess"
-    click L href "https://rockroyal305.github.io/Rockroyal.github.io/art.html#lego-concepts"
-    click P href "https://rockroyal305.github.io/Rockroyal.github.io/index.html#programming--ai"
-    click N href "https://rockroyal305.github.io/Rockroyal.github.io/index.html#neuroscience"
-    click H href "https://rockroyal305.github.io/Rockroyal.github.io/index.html#robotics"
-    click O href "https://rockroyal305.github.io/Rockroyal.github.io/art.html#origami-creations"
+    click A href "https://rockroyal305.github.io/Rockroyal.github.io/art.html" "_blank"
+    click C href "https://rockroyal305.github.io/Rockroyal.github.io/index.html#chess" "_blank"
+    click L href "https://rockroyal305.github.io/Rockroyal.github.io/art.html#lego-concepts" "_blank"
+    click P href "https://rockroyal305.github.io/Rockroyal.github.io/index.html#programming--ai" "_blank"
+    click N href "https://rockroyal305.github.io/Rockroyal.github.io/index.html#neuroscience" "_blank"
+    click H href "https://rockroyal305.github.io/Rockroyal.github.io/index.html#robotics" "_blank"
+    click O href "https://rockroyal305.github.io/Rockroyal.github.io/art.html#origami-creations" "_blank"
 ```
 
 <!---
