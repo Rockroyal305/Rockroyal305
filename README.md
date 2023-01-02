@@ -38,13 +38,6 @@
     O(Origami) --> A
     O --> M & B & H
     O <--> M
-    click A "https://www.github.com" _blank
-    click C "https://rockroyal305.github.io/Rockroyal.github.io/index.html#chess" _blank
-    click L "https://rockroyal305.github.io/Rockroyal.github.io/art.html#lego-concepts" _blank
-    click P "https://rockroyal305.github.io/Rockroyal.github.io/index.html#programming--ai" _blank
-    click N "https://rockroyal305.github.io/Rockroyal.github.io/index.html#neuroscience" _blank
-    click H "https://rockroyal305.github.io/Rockroyal.github.io/index.html#robotics" _blank
-    click O "https://rockroyal305.github.io/Rockroyal.github.io/art.html#origami-creations" _blank
 ```
 
 <!---
