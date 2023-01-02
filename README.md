@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rockroyal305
-- 👀 I’m interested in ... Competive Programming, Web Dev, Chess, Math, and AI
-- 🌱 I’m currently learning ... Machine Learning
+- 👀 I’m interested in Competive Programming, Web Dev, Chess, Math, and AI
+- 🌱 I’m currently learning Machine Learning
 
 ```mermaid
 %%{
@@ -38,13 +38,13 @@
     O(Origami) --> A
     O --> M & B & H
     O <--> M
-    click A href "https://rockroyal305.github.io/Rockroyal.github.io/art.html" "_blank"
-    click C href "https://rockroyal305.github.io/Rockroyal.github.io/index.html#chess" "_blank"
-    click L href "https://rockroyal305.github.io/Rockroyal.github.io/art.html#lego-concepts" "_blank"
-    click P href "https://rockroyal305.github.io/Rockroyal.github.io/index.html#programming--ai" "_blank"
-    click N href "https://rockroyal305.github.io/Rockroyal.github.io/index.html#neuroscience" "_blank"
-    click H href "https://rockroyal305.github.io/Rockroyal.github.io/index.html#robotics" "_blank"
-    click O href "https://rockroyal305.github.io/Rockroyal.github.io/art.html#origami-creations" "_blank"
+    click A "https://rockroyal305.github.io/Rockroyal.github.io/art.html" "_blank"
+    click C "https://rockroyal305.github.io/Rockroyal.github.io/index.html#chess" "_blank"
+    click L "https://rockroyal305.github.io/Rockroyal.github.io/art.html#lego-concepts" "_blank"
+    click P "https://rockroyal305.github.io/Rockroyal.github.io/index.html#programming--ai" "_blank"
+    click N "https://rockroyal305.github.io/Rockroyal.github.io/index.html#neuroscience" "_blank"
+    click H "https://rockroyal305.github.io/Rockroyal.github.io/index.html#robotics" "_blank"
+    click O "https://rockroyal305.github.io/Rockroyal.github.io/art.html#origami-creations" "_blank"
 ```
 
 <!---
