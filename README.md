@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... Machine Learning
 
 ```mermaid
+%%{init:{"theme":"neutral"}}%%
   flowchart RL;
     M(Math) --> C(Chess)
     M <--> P(Programming)
@@ -25,7 +26,7 @@
     O(Origami) --> A
     O --> M & B & H
     O <--> M
-    click A href "https://rockroyal305.github.io/Rockroyal.github.io/art.html" "_blank"
+    click A href "https://rockroyal305.github.io/Rockroyal.github.io/art.html" "new"
     click C href "https://rockroyal305.github.io/Rockroyal.github.io/index.html#chess" "_blank"
     click L href "https://rockroyal305.github.io/Rockroyal.github.io/art.html#lego-concepts" "_blank"
     click P href "https://rockroyal305.github.io/Rockroyal.github.io/index.html#programming--ai" "_blank"
