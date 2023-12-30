@@ -7,10 +7,10 @@
   init: {
     'theme': 'base',
     'themeVariables': {
-      'primaryColor': '#CDE498',
+      'primaryColor': '#1A836D',
       'primaryTextColor': '#0D1117',
       'primaryBorderColor': '#1D5116',
-      'lineColor': '#B0B0B0',
+      'lineColor': '#1B3E83',
       'secondaryColor': '#093F42',
       'tertiaryColor': '#B0B0B0'
     }
