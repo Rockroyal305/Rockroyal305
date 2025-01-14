@@ -17,7 +17,7 @@
   }
 }%%
   flowchart RL;
-    M(Math) -> C(Chess)
+    M(Math) --- C(Chess)
     M --- P(Programming)
     C --- P
     C & P --- G(Games)
