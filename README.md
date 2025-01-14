@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rockroyal305
-- 👀 I’m interested in Competive Programming, Web Dev, Chess, Math, and AI
+- 👀 I’m interested in Competive Programming, Web Dev, Chess, Math, Robotics, Game Theory and AI
 - 🌱 I’m currently learning Machine Learning
 
 ```mermaid
@@ -17,27 +17,30 @@
   }
 }%%
   flowchart RL;
-    M(Math) --> C(Chess)
-    M <--> P(Programming)
-    C <--> P
-    C & P --> G(Games)
+    M(Math) -- C(Chess)
+    M -- P(Programming)
+    C -- P
+    C & P -- G(Games)
     B(Books)
-    A(Art) --> B
-    A --> B
-    E(Economics) <--> M & G
-    B --> C
-    E --> B
-    A & M & G --> L(Lego)
-    L --> P
-    H(Hardware) --> L & G
-    H <--> P
-    B --> H
-    C <--> N(Neuroscience)
-    G <--> N
-    E --> N
-    O(Origami) --> A
-    O --> M & B & H
-    O <--> M
+    A(Art) -- B
+    A -- B
+    E(Economics) -- M & G
+    B -- C
+    E -- B
+    A & M & G -- L(Lego)
+    L -- P
+    H(Hardware) -- L & G
+    H -- P
+    B -- H
+    R(Robotics) -- P
+    H -- R    
+    C -- N(Neuroscience)
+    G -- N
+    E -- N
+    O(Origami) -- A
+    O -- R
+    O -- M & B & H
+    O -- M
 ```
 
 <!---
