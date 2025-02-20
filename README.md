@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rockroyal305
-- 👀 I’m interested in Competive Programming, Web Dev, Chess, Math, Robotics, Game Theory and AI
+- 👀 I’m interested in Competitive Programming, Web Dev, Chess, Math, Robotics, Game Theory and AI
 - 🌱 I’m currently learning Machine Learning
 
 ```mermaid
