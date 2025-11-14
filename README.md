@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Rockroyal305
-- 👀 I’m interested in Competitive Programming, Web Dev, Chess, Math, Robotics, Game Theory and AI
-- 🌱 I’m currently learning Machine Learning
-
+Robotics researcher, chess player, and origami enthusiast with interests in non-linear control algorithms, numerical solvers, and compilers.
 ```mermaid
 %%{
   init: {
@@ -46,3 +43,4 @@
 Rockroyal305/Rockroyal305 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
